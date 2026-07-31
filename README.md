@@ -33,11 +33,7 @@ The project was built to practice writing clean, semantic HTML and scalable CSS 
 
 ## 📸 Preview
 
-> Add screensho![FlowDesk Desktop](assets/screenshots//Desktop-screenshot.webp)ts here after uploading them.
-
-Example:
-
-![Homepage](./assets/images/preview.png)
+> Add screensho![FlowDesk Desktop](assets/screenshots//Home.png)ts here **after uploading them.**
 
 ---
 
