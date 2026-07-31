@@ -73,6 +73,10 @@ FlowDesk/
 
 ---
 
+# Preview
+
+![FlowDesk Desktop](assets/screenshots/desktop.png)
+
 ## 🚀 Live Demo
 
 ## https://flow-desk-rho-ten.vercel.app/#
