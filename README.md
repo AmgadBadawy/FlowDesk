@@ -33,7 +33,7 @@ The project was built to practice writing clean, semantic HTML and scalable CSS 
 
 ## 📸 Preview
 
-> Add screenshots here after uploading them.
+> Add screensho![FlowDesk Desktop](assets/screenshots//Desktop-screenshot.webp)ts here after uploading them.
 
 Example:
 
@@ -72,10 +72,6 @@ FlowDesk/
 - Image Optimization
 
 ---
-
-# Preview
-
-![FlowDesk Desktop](assets/screenshots/desktop.png)
 
 ## 🚀 Live Demo
 
