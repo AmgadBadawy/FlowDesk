@@ -33,7 +33,9 @@ The project was built to practice writing clean, semantic HTML and scalable CSS 
 
 ## 📸 Preview
 
-> Add screensho![FlowDesk Desktop](assets/screenshots//Home.png)ts here **after uploading them.**
+<p align="center">
+  <img src="assets/screenshots/Home.png" alt="FlowDesk landing page preview" width="100%"/>
+</p>
 
 ---
 
